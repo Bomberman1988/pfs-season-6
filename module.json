@@ -1,0 +1,30 @@
+{
+  "id": "pfs-season-6",
+  "title": "PFS (Season 6)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "pfs-season-6",
+      "label": "PFS (Season 6)",
+      "path": "packs/pfs-season-6",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Bomberman",
+      "email": "linc.r1988@gmail.com",
+      "discord": "bomberman1988",
+      "flags": {}
+    }
+  ]
+}
