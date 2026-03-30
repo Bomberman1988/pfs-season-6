@@ -1,7 +1,7 @@
 {
   "id": "pfs-season-6",
   "title": "PFS (Season 6)",
-  "version": "9.1.26",
+  "version": "30.3.26",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -28,6 +28,6 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Bomberman1988/pfs-season-6/main/module.json",
-  "download": "https://github.com/Bomberman1988/pfs-season-6/releases/download/v9.1.26/pfs-season-6.zip",
+  "download": "https://github.com/Bomberman1988/pfs-season-6/releases/latest/download/pfs-season-6.zip",
   "url": "https://github.com/Bomberman1988/pfs-season-6"
 }
